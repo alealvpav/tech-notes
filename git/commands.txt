@@ -1,0 +1,2 @@
+git clone <repository_url>
+Comando que sirve para clonar el repositorio localizado en <repository_url> en mi equipo.
