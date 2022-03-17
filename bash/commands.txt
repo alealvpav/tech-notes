@@ -1,0 +1,2 @@
+cd <ruta>
+Change Directory: Comando que sirve para cambiarse al directorio indicado en el parámetro <ruta>
